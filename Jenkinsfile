@@ -5,7 +5,7 @@ pipeline {
     stages {
         stage('Setup') {
             steps {
-                git branch: 'main', url: 'https://github.com/TGregorio11/TCC-EBAC.git'
+                git branch: 'main', url: 'https://github.com/TGregorio11/TCC-AUTOMACAO.git'
                 bat 'npm install'
             }
         }

@@ -1,0 +1,26 @@
+[
+    {
+       "nomeProduto": "Ingrid Running Jacket",
+        "tamanho": "L",
+        "cor": "White",
+        "quantidade": 4
+    },
+
+    { 
+        "nomeProduto": "Aero Daily Fitness Tee",
+        "tamanho": "XL",
+        "cor": "Black",
+        "quantidade": 1
+    },
+    
+    {
+        "nomeProduto": "Hyperion Elements Jacket",
+        "tamanho": "S",
+        "cor": "Orange",
+        "quantidade": 4
+    }
+
+]
+
+
+
